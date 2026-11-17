@@ -1,0 +1,16 @@
+{
+  "name": "thiago-site-pessoal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Currículo profissional e blog pessoal de Thiago da Rosa Fonseca",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

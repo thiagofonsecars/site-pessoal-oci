@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Tecnologia e atendimento consultivo",
+    "date": "2026-11-16",
+    "category": "Carreira",
+    "excerpt": "Como entender o cenário do cliente ajuda a conectar necessidades de negócio às soluções de tecnologia.",
+    "body": "Uma conversa consultiva começa com perguntas. Ao compreender o ambiente, as prioridades e os desafios do cliente, fica mais simples apresentar opções com benefícios e compensações claros."
+  },
+  {
+    "title": "Aprender desenvolvimento construindo projetos",
+    "date": "2026-11-12",
+    "category": "Estudos",
+    "excerpt": "Projetos pequenos ajudam a transformar conceitos de programação em prática e experiência.",
+    "body": "No curso de Análise e Desenvolvimento de Sistemas, procuro aplicar os conteúdos em projetos práticos. Criar, revisar e explicar cada etapa ajuda a consolidar o aprendizado."
+  },
+  {
+    "title": "Meu primeiro site publicado em nuvem",
+    "date": "2026-11-10",
+    "category": "Infraestrutura",
+    "excerpt": "Uma aplicação web precisa de código, servidor, rede e monitoramento trabalhando em conjunto.",
+    "body": "Publicar um site envolve preparar o ambiente Linux, configurar as regras de rede e manter o processo Node.js ativo. O PM2 simplifica o gerenciamento e permite restaurar a aplicação após uma reinicialização."
+  }
+]
